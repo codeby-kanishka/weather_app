@@ -71,7 +71,7 @@ Just open index.html in your browser — no server required.
  ## 🌐 Live Demo
 
 [Click here to view the live Weather App]
-(https://codeby-kanishka.github.io/weather-app/)
+(https://codeby-kanishka.github.io/weather_app/)
 
 ---
 
