@@ -62,12 +62,18 @@ Just open index.html in your browser — no server required.
 ### 🔮 Future Enhancements
 
 
- Add search history
- Auto-detect user location
- Switch between Celsius and Fahrenheit
- Dark/light mode toggle
+1. Add search history
+2. Auto-detect user location
+3. Switch between Celsius and Fahrenheit
+4. Dark/light mode toggle
 
  ---
+ ## 🌐 Live Demo
+
+[Click here to view the live Weather App]
+(https://codeby-kanishka.github.io/weather-app/)
+
+---
 
 ### 👩‍💻 Author
 Kanishka
